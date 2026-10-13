@@ -1,0 +1,99 @@
+{
+  "title": "English Orbit",
+  "export_date": "2026-10-13",
+  "source_commit": "1db80b8d5d62bd07f20ffba3c556c24d10fdf118",
+  "site_url": "https://english-orbit-course.onekaratas.chatgpt.site",
+  "format": "static HTML, CSS, JavaScript and PDF",
+  "files": [
+    {
+      "path": "app.js",
+      "bytes": 29781,
+      "sha256": "8d45094dccafd17153052c2fa0557b40621ed1ce7720278dee8682098fd1589e"
+    },
+    {
+      "path": "beginner.js",
+      "bytes": 10238,
+      "sha256": "7effe00343759f728c09de7c0dd36638c8d4fced9869c8f7a85876df5919635f"
+    },
+    {
+      "path": "books/English_Orbit_01_Starter.pdf",
+      "bytes": 77288,
+      "sha256": "68f4391b4dce81626952fe8872cbfa14db38fdd262c1cb364c8abcb440f29ed4"
+    },
+    {
+      "path": "books/English_Orbit_02_Elementary.pdf",
+      "bytes": 75104,
+      "sha256": "a87568d00359f97a323af9700f8392fd846b8592bb920c213644f068c7374a04"
+    },
+    {
+      "path": "books/English_Orbit_03_Pre_intermediate.pdf",
+      "bytes": 76025,
+      "sha256": "083d7b9f10aefe0b70d262835e85cdaa905e4060b47b34c2f509de6c96ec07f2"
+    },
+    {
+      "path": "books/English_Orbit_04_Intermediate.pdf",
+      "bytes": 76258,
+      "sha256": "749784bd98feeb902ad4ef96728e32a5c9379c052b3e6dda15b918e5922f927d"
+    },
+    {
+      "path": "books/English_Orbit_05_Upper_intermediate.pdf",
+      "bytes": 77554,
+      "sha256": "7c9c79653390e1ae23176db1e839b194f930aafbfbf3ebb872228567bc95ddac"
+    },
+    {
+      "path": "books/English_Orbit_06_Advanced.pdf",
+      "bytes": 77995,
+      "sha256": "73e5760f040f89af3e6cb74ca20e2af82dd708f174e5d0793c15641cc18dae0f"
+    },
+    {
+      "path": "books/English_Orbit_Complete_Coursebook.pdf",
+      "bytes": 502621,
+      "sha256": "c9b93037ccf952f188f9116721510bb16f1241768c0fcacee44d8b52ab13334e"
+    },
+    {
+      "path": "books/English_Orbit_Grammar_and_Linguistics_Handbook.pdf",
+      "bytes": 213637,
+      "sha256": "6648004286fa5b89f0b8c140e9820a903fee977f11521ec2af3cefbb20b3d5e8"
+    },
+    {
+      "path": "coach.js",
+      "bytes": 28458,
+      "sha256": "a3b012849b2d41958a8c8b67a043096b96b1d4950f67e28c36bc7b6a14571e64"
+    },
+    {
+      "path": "course.js",
+      "bytes": 25729,
+      "sha256": "68ebdd9b8050b80632568c3971c90077acf19e7cd33ff5ed11ca3100be150704"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2415,
+      "sha256": "4fde1e2d2e40a8f5da14b3e848703322cf08393509de3fd5de43b7179696a8a7"
+    },
+    {
+      "path": "orbit.js",
+      "bytes": 3592,
+      "sha256": "831dbe9c2bc76541a4d6aa6f1a6fe2f22ded95cd8896830391654c1335941e28"
+    },
+    {
+      "path": "style.css",
+      "bytes": 10719,
+      "sha256": "856961ac71b8a55843aeea626dd9e571fe9ad4044980dd1107f207088bd42c80"
+    },
+    {
+      "path": "vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "vendor/three.core.js",
+      "bytes": 1458113,
+      "sha256": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6"
+    },
+    {
+      "path": "vendor/three.module.js",
+      "bytes": 662772,
+      "sha256": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
+    }
+  ]
+}
